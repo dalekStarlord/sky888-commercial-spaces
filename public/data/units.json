@@ -28,5 +28,15 @@
     "description": "",
     "status": "reserved",
     "photos": []
+  },
+    {
+    "id": 4,
+    "name": "Unit 4",
+    "floor": 10,
+    "size_sqm": 50,
+    "monthly_rate": 10000,
+    "description": "",
+    "status": "available",
+    "photos": []
   }
 ]
